@@ -5,7 +5,7 @@
 //  Created by Zabeehullah Qayumi on 9/1/18.
 //  Copyright © 2018 Zabeehullah Qayumi. All rights reserved.
 // one line of comment in here . 
-
+// this line is only inside master. 
 import UIKit
 
 class ViewController: UIViewController {
